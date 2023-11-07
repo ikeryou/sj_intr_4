@@ -2,6 +2,13 @@
 
 ## ランダムな値をアニメーションに利用する
 
+https://ikeryou.jp/sketch/425/
+
+https://fonts.google.com/specimen/Linefont
+
+Math.random()
+
+
 ### demo1
 0から9までのランダムな値を使う
 
