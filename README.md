@@ -24,6 +24,8 @@ Math.random()
 リクエスト  
 作品づくり、ワークショップ  
 スクロール連動  
-https://ikeryou.hatenablog.com/entry/2018/02/26/112551
+https://ikeryou.hatenablog.com/entry/2018/02/26/112551  
 
+↓決定  
+慣性スクロール
 
